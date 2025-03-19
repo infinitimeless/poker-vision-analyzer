@@ -1,0 +1,9 @@
+{
+    "name": "poker-vision-analyzer",
+    "version": "1.0.0",
+    "description": "Tool to analyze poker table screenshots",
+    "type": "module",
+    "scripts": {
+        "analyze": "node poker_status_from_screenshot.js"
+    }
+}
