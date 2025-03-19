@@ -4,6 +4,8 @@
     "description": "Tool to analyze poker table screenshots",
     "type": "module",
     "scripts": {
-        "analyze": "node poker_status_from_screenshot.js"
+        "analyze": "node poker_status_from_screenshot.js",
+        "analyze:help": "node poker_status_from_screenshot.js --help",
+        "analyze:model": "node poker_status_from_screenshot.js --model"
     }
 }
